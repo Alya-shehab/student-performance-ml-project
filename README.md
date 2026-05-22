@@ -45,6 +45,15 @@ The dataset used in this research was obtained from Kaggle:
 The experimental results showed that the SVM model achieved the best overall performance.
 
 ---
+## 📈 Model Performance Visualization
+
+### SVM Performance
+![SVM Results](screenshots/svm-results.png)
+
+### Decision Tree Performance
+![Decision Tree Results](screenshots/decision-tree-results.png)
+
+---
 
 ## Technologies Used
 - Python
