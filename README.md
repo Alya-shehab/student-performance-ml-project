@@ -45,7 +45,7 @@ The dataset used in this research was obtained from Kaggle:
 The experimental results showed that the SVM model achieved the best overall performance.
 
 ---
-## 📈 Model Performance Visualization
+## Model Performance Visualization
 
 ### SVM Performance
 ![SVM Results](screenshots/svm-result.png)
