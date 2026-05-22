@@ -48,10 +48,10 @@ The experimental results showed that the SVM model achieved the best overall per
 ## 📈 Model Performance Visualization
 
 ### SVM Performance
-![SVM Results](screenshots/svm-results.png)
+![SVM Results](screenshots/svm-result.png)
 
 ### Decision Tree Performance
-![Decision Tree Results](screenshots/decision-tree-results.png)
+![Decision Tree Results](screenshots/decision-tree-result.png)
 
 ---
 
